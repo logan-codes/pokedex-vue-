@@ -1,7 +1,7 @@
 <template>
 
 <div class="container">
-  <h1 class="d-flex justify-content-center">Pokedex</h1>
+  <h1 class="d-flex justify-content-center">Pokedex prueba</h1>
 </div>
 
   <HelloWorld></HelloWorld>
